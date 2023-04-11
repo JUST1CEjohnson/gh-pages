@@ -9,10 +9,10 @@ function App() {
         <p>
           Continuous Cloud Consulting
         </p>
-        <p>Technical consulting company that specalizes in kuberenetes and DevOps principles.</p>
+        <p>Technical consulting company that specalizes in kubernetes and DevOps principles.</p>
         <p>Please contact continuouscloudconsulting@gmail.com for all inquiries.</p>
       </header>
-      <footer>        <p>Copyright Continuous Cloud LLC Jacksonville, FL</p></footer>
+      <footer><p>Copyright Continuous Cloud LLC Jacksonville, FL</p></footer>
     </div>
   );
 }
